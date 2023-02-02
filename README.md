@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritartha B. Shah</h1>
 <h3 align="center">A passionate App/Web developer from NEPAL 🇳🇵</h3>
 
-<img align="right" alt="thisiskritartha" width="300" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="thisiskritartha" width="250" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskritartha&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskritartha" /> </p>
 
