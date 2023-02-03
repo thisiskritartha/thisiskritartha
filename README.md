@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kritartha B. Shah</h1>
+<h1 align="center">Hi there👋, I'm Kritartha B. Shah</h1>
 <h3 align="center">A passionate App/Web developer from NEPAL 🇳🇵</h3>
 
 
