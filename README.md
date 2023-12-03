@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/thisiskritartha](github.com/thisiskritartha)
 
-- 📝 I regularly READ/*WRITE* articles on [medium.com](medium.com)
-
 - 💬 Ask me about **Flutter, JavaScript, Nodejs,Mongoose, ExpressJs Mongodb, Postman...**
 
 - 📫 How to reach me **thisiskritartha@gmail.com / 076bct041@ioepc.edu.np**
