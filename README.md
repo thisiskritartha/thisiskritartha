@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, This is Kritartha Bikram Shah</h1>
+<h1 align="center">Hi there👋, This is Kritartha Bikram Shah.</h1>
 <h3 align="center">A Passionate Mobile App Developer 🇳🇵</h3>
 
 
