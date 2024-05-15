@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter, Nodejs, Firebase and MongoDb**
 
-- 👨‍💻 All of my projects are available at [github.com/thisiskritartha](github.com/thisiskritartha)
+- 👨‍💻 All of my projects are available at https://github.com/thisiskritartha?tab=repositories
 
 - 💬 Ask me about **Flutter, JavaScript, Nodejs,Mongoose, ExpressJs Mongodb, Postman...**
 
