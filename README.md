@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/shah_kritarthab" target="blank"><img src="https://img.shields.io/twitter/follow/shah_kritarthab?logo=twitter&style=for-the-badge" alt="shah_kritarthab" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Nodejs, Firebase and MongoDb**
+- 🌱 I’m currently doing **Flutter, Firebase, Postman, GitHub and Nodejs**
 
 - 👨‍💻 All of my projects are available at https://github.com/thisiskritartha?tab=repositories
 
-- 💬 Ask me about **Flutter,Firebase, JavaScript, Nodejs, Mongoose, ExpressJs, Mongodb, Postman...**
+- 💬 Ask me about **Flutter, Firebase, JavaScript, Python(Numpy, Seaborne, Pandas, Sklearn, tensorflow), CNN(Image Classification), Nodejs, Mongoose, ExpressJs, Mongodb, Postman, Git, Github**
 
 - 📫 How to reach me **thisiskritartha@gmail.com / 076bct041@ioepc.edu.np**
 
