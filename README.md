@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, This is Kritartha Bikram Shah.</h1>
-<h3 align="center">A Passionate Mobile App Developer 🇳🇵</h3>
+<h3 align="center">A Passionate Mobile App(Flutter) Developer 🇳🇵</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskritartha&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskritartha" /> </p>
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/thisiskritartha?tab=repositories
 
-- 💬 Ask me about **Flutter, JavaScript, Nodejs,Mongoose, ExpressJs Mongodb, Postman...**
+- 💬 Ask me about **Flutter,Firebase, JavaScript, Nodejs, Mongoose, ExpressJs, Mongodb, Postman...**
 
 - 📫 How to reach me **thisiskritartha@gmail.com / 076bct041@ioepc.edu.np**
 
