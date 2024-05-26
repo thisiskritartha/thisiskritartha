@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **thisiskritartha@gmail.com / 076bct041@ioepc.edu.np**
 
-- ⚡ Fun fact **Engineering Student | Love to Code | Learner | Optimistic | Sport Lover**
+- ⚡ **Fun Fact:** I'm a passionate **Computer Engineer** who loves crafting innovative **Mobile Apps**. Always in learning mode, I'm an **Optimistic** thinker and a **Sports Enthusiast**. Let's build something amazing together!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
