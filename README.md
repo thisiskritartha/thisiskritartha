@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, This is Kritartha and Welcome to my profile.</h1>
+<h1 align="center">Hi there👋, This is Kritartha</h1>
 <h3 align="center">A Passionate Mobile App(Flutter) Developer 🇳🇵</h3>
 
 
