@@ -1,5 +1,4 @@
-<h1 align="center">Hi there👋, This is Kritartha</h1>
-<h3 align="center">A Passionate Mobile App(Flutter) Developer 🇳🇵</h3>
+<h1 align="center">Mobile App Developer 🇳🇵</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskritartha&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskritartha" /> </p>
@@ -8,15 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/shah_kritarthab" target="blank"><img src="https://img.shields.io/twitter/follow/shah_kritarthab?logo=twitter&style=for-the-badge" alt="shah_kritarthab" /></a> </p>
 
-- 🌱 I’m currently doing **Flutter, Firebase, Postman, GitHub and Nodejs**
-
-- 👨‍💻 All of my projects are available at https://github.com/thisiskritartha?tab=repositories
-
-- 💬 Ask me about **Flutter, Firebase, JavaScript, Python(Numpy, Seaborne, Pandas, Sklearn, tensorflow), CNN(Image Classification), Nodejs, Mongoose, ExpressJs, Mongodb, Postman, Git, Github**
-
-- 📫 How to reach me **thisiskritartha@gmail.com / 076bct041@ioepc.edu.np**
-
-- ⚡ **Fun Fact:** I'm a passionate **Computer Engineer** who loves crafting innovative **Mobile Apps**. Always in learning mode, I'm an **Optimistic** thinker and a **Sports Enthusiast**. Let's build something amazing together!
 
 
 <h3 align="left">Connect with me:</h3>
